@@ -2,7 +2,7 @@
 **A passionate Software Engineer, graduated from Thapar University, working in XLSCOUT.**
 
 - 🔭 **I’m currently working in:** XLSCOUT
-- 💬 **Ask me about:** Anything realted to my tech stack
+- 💬 **Ask me about:** Anything related to my tech stack
 - 📫 **How to reach me:** mnik.g2025@gmail.com
 - 😄 **Pronouns:** He/Him/His
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me 😄
